@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-		return 'Welcome to To Infiny and Beyond!'
+		return 'Welcome to Infiny and Beyond!'
